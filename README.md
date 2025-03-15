@@ -18,9 +18,7 @@ O programa realiza as seguintes ações:
 
 Digite o número da conta: 1021 Digite o número da agência: 067-8 Digite o nome do cliente: MARIA ANDRADE Digite o saldo da conta: 500.00
 
-makefile
-Copiar
-Editar
+
 
 **Saída:**
 Olá MARIA ANDRADE, obrigado por criar uma conta em nosso banco, sua agência é 067-8, conta 1021 e seu saldo R$ 500.0 já está disponível para saque.
@@ -75,29 +73,15 @@ public class ContaTerminal {
     }
 }
 Como Usar
-Clone este repositório para o seu computador:
 
-bash
-Copiar
-Editar
-git clone https://github.com/IsraelAlexander-byte/ContaBanco.git
-Navegue até a pasta do projeto:
-
-bash
-Copiar
-Editar
 cd ContaBanco
 Compile o código Java:
 
-bash
-Copiar
-Editar
+
 javac ContaTerminal.java
 Execute o programa:
 
-bash
-Copiar
-Editar
+
 java ContaTerminal
 Siga as instruções no terminal para inserir os dados da conta.
 
